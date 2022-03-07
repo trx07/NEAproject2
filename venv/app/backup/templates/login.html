@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col-3 mx-auto">
+        <h1>login test</h1>
+
+
+            <form action="" method="post" novalidate>
+                {{ form.hidden_tag() }}
+                <p>
+                    {{ form.username.label }}<br>
+                    {{ form.username(size=16)}}<br>
+                </p>
+                <p>
+                    {{ form.password.label }}<br>
+                    {{ form.password(size=16) }}<br>
+                </p>
+                <p>{{ form.submit(class="btn btn-primary") }}</p>
+            </form>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+    {% endblock %}

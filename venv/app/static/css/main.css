@@ -1,0 +1,66 @@
+
+
+
+
+
+
+body {
+    background: #670097; 
+    background: linear-gradient(to right, #131313, #131313);
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+}
+
+nav.navblack{
+
+    background: #101010;
+
+
+
+
+
+}
+
+
+.btn-purple {
+    background: #4e54c8;  
+    background: linear-gradient(to right, #670097, #670097); 
+    color: #fff;
+    border: 0px solid rgb(0, 0, 0);
+}
+
+
+
+.btn-rounded {
+    border-radius: 35px;
+}
+
+.btn-fab {
+    height: 50px;
+    width: 53px;
+    border-radius: 50%;
+}
+
+hr {
+    border-top: 1px solid #9E9E9E;
+}
+
+
+.card {
+    border: 1px solid #7f04b8;
+}
+.card-login {
+    margin-top: 130px;
+    padding: 18px;
+    max-width: 30rem;
+}
+
+.card-header {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600 !important;
+    margin-top: 10px;
+    border-bottom: 0;
+}

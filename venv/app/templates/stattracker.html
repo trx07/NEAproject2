@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+
+    div.container{
+
+
+        color: #8b8b8b;
+
+    }
+
+
+</style>
+
+<div class="container">
+    <div class="row">
+
+        <h2><img src='/static/12.3.1/img/profileicon/{{ playericon }}.png' width="64" height="64" class="rounded-circle" />Welcome, {{ ingamename }}</h2>
+
+
+        <div class="col-sm-12">
+            <p></p>
+            {% for i in range(kills| length) %}
+                    
+                    
+            {% include 'matchBox.html'%}
+        
+        
+        
+        
+            {% endfor %}
+
+
+
+        </div>
+    </div>
+</div>
+{% endblock %}

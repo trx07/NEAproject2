@@ -1,0 +1,73 @@
+8:06:24 PM  [main] 	Initializing Control Panel
+8:06:24 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:06:24 PM  [main] 	XAMPP Version: 8.1.1
+8:06:24 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:06:24 PM  [main] 	You are not running with administrator rights! This will work for
+8:06:24 PM  [main] 	most application stuff but whenever you do something with services
+8:06:24 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:06:24 PM  [main] 	about running this application with administrator rights!
+8:06:24 PM  [main] 	XAMPP Installation Directory: "d:\neaproject2\venv\xampp\"
+8:06:24 PM  [main] 	Checking for prerequisites
+8:06:24 PM  [main] 	All prerequisites found
+8:06:24 PM  [main] 	Initializing Modules
+8:06:24 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+8:06:25 PM  [main] 	The FileZilla module is disabled
+8:06:25 PM  [main] 	The Mercury module is disabled
+8:06:25 PM  [main] 	The Tomcat module is disabled
+8:06:25 PM  [main] 	Starting Check-Timer
+8:06:25 PM  [main] 	Control Panel Ready
+8:06:27 PM  [Apache] 	Attempting to start Apache app...
+8:06:28 PM  [Apache] 	Status change detected: running
+12:49:03 AM  [main] 	Deinitializing Modules
+12:49:03 AM  [main] 	Deinitializing Control Panel
+
+0:13:06  [main] 	Initializing Control Panel
+0:13:06  [main] 	Windows Version:  Enterprise  64-bit
+0:13:06  [main] 	XAMPP Version: 8.1.1
+0:13:06  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+0:13:06  [main] 	You are not running with administrator rights! This will work for
+0:13:06  [main] 	most application stuff but whenever you do something with services
+0:13:06  [main] 	there will be a security dialogue or things will break! So think 
+0:13:06  [main] 	about running this application with administrator rights!
+0:13:06  [main] 	XAMPP Installation Directory: "d:\neaproject2\venv\xampp\"
+0:13:06  [main] 	Checking for prerequisites
+0:13:06  [main] 	All prerequisites found
+0:13:06  [main] 	Initializing Modules
+0:13:06  [main] 	The FileZilla module is disabled
+0:13:06  [main] 	The Mercury module is disabled
+0:13:06  [main] 	The Tomcat module is disabled
+0:13:06  [main] 	Starting Check-Timer
+0:13:06  [main] 	Control Panel Ready
+0:13:12  [Apache] 	Attempting to start Apache app...
+0:13:12  [Apache] 	Status change detected: running
+0:15:47  [Apache] 	Attempting to stop Apache (PID: 18540)
+0:15:47  [Apache] 	Attempting to stop Apache (PID: 12816)
+0:15:48  [Apache] 	Status change detected: stopped
+0:15:48  [mysql] 	Attempting to stop MySQL app...
+0:15:48  [mysql] 	Status change detected: stopped
+0:15:53  [main] 	Deinitializing Modules
+0:15:53  [main] 	Deinitializing Control Panel
+
+0:17:35  [main] 	Initializing Control Panel
+0:17:35  [main] 	Windows Version:  Enterprise  64-bit
+0:17:35  [main] 	XAMPP Version: 8.1.1
+0:17:35  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+0:17:35  [main] 	You are not running with administrator rights! This will work for
+0:17:35  [main] 	most application stuff but whenever you do something with services
+0:17:35  [main] 	there will be a security dialogue or things will break! So think 
+0:17:35  [main] 	about running this application with administrator rights!
+0:17:35  [main] 	XAMPP Installation Directory: "d:\neaproject2\venv\xampp_bakup\"
+0:17:35  [main] 	Checking for prerequisites
+0:17:35  [main] 	All prerequisites found
+0:17:35  [main] 	Initializing Modules
+0:17:35  [main] 	The FileZilla module is disabled
+0:17:35  [main] 	The Mercury module is disabled
+0:17:35  [main] 	The Tomcat module is disabled
+0:17:35  [main] 	Starting Check-Timer
+0:17:35  [main] 	Control Panel Ready
+0:17:36  [Apache] 	Attempting to start Apache app...
+0:17:36  [Apache] 	Status change detected: running
+0:17:36  [mysql] 	Attempting to start MySQL app...
+0:25:23  [main] 	Deinitializing Modules
+0:25:23  [main] 	Deinitializing Control Panel
+

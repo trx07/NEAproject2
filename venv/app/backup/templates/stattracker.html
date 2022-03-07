@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<div class="container">
+    <div class="row">
+
+        <h1>Stattracker</h1>
+        <h2>Welcome, {{ displayUser }}</h2>
+
+
+        <div class="col-sm-4">
+
+            <form action="" method="post" novalidate>
+                {{ form.hidden_tag() }}
+                <p>
+                    {{ form.username.label }}<br>
+                    {{ form.username(size=32) }}<br>
+                    {% for error in form.username.errors %}
+                    <span style="color : red;">[{{ error }}]</span>
+                    {% endfor %}
+                </p>
+                <p>{{ form.submit() }}</p>
+
+                {% for i in range(kills| length) %}
+                
+
+                <p><img src="/static/12.3.1/img/champion/{{ champname[i] }}.png" width="64" height="64"/> {{crazyname}} kills: {{kills[i]}} deaths: {{deaths[i]}} while playing {{ champname[i] }}  </p>
+
+                
+
+
+                {% endfor %}
+
+                <p>the match id is </p>
+            </form>
+
+        </div>
+    </div>
+</div>
+{% endblock %}

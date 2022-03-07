@@ -1,0 +1,11 @@
+div.matchBox{
+
+    position: relative;
+    bottom: 0;
+    top: 0;
+    width: 600px;
+    border-style: solid;
+    border-color: rgb(32, 32, 32);
+    background: rgb(22, 22, 22);
+    color: white;
+}
